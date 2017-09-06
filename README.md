@@ -13,7 +13,7 @@ programming, or coding in general is required.
 
 To prepare for your first visit, please do the following:
 
-- **Join the [VanFP Meetup](https://vanfp.org), the [Vancouver Haskell Meetup](https://www.meetup.com/Vancouver-Haskell-Unmeetup/) and our #hffp-workshop slack channel on yvrdev.slack.com.**
+- **Join the [VanFP Meetup](https://vanfp.org), the [Vancouver Haskell Meetup](https://www.meetup.com/Vancouver-Haskell-Unmeetup/) and the #hffp-workshop channel on yvrdev.slack.com.**
 All announcements pertaining to this study group will be sent out via both
 Meetups and Slack.
 
@@ -50,8 +50,9 @@ the following tasks:
 - Do all the reading.
 - Type in all the code.
 - Attempt all the exercises.
-- Meet with a study partner to discuss your work.
 - Attend the group meeting.
+- Optional: Meet with a study partner to discuss your work, it is likely you
+  will keep at it if you hold yourself accountable to a particular person.
 
 These expectations are not meant to make your life miserable but to provide a
 framework for your success. If you actually want to learn Haskell, consistency
@@ -74,21 +75,21 @@ By participating in this study group, you implicitly agree to conduct your
 coding as follows:
 
 * You will purchase your own copy of the Haskell Book. Anyone suspected of using
-an illegal copy will be removed from the group immediately.
+  an illegal copy will be removed from the group immediately.
 
 * Each week, prior to the group meeting, you will complete the assigned reading
-and attempt to complete the coding exercises to the best of your ability. If you
-do not make a genuine effort to complete your work, for whatever reason, you
-will not be permitted to join the group discussion that week. Participants who
-fail to complete their assignments twice in a row or three times total, or who
-are otherwise not making a good faith effort to keep up with the course
-schedule, may be asked to leave the group. If you find yourself struggling with
-the exercises, you should seek help at the meetings, from your study partner, or
-online.
+  and attempt to complete the coding exercises to the best of your ability. If
+  you do not make a genuine effort to complete your work, for whatever reason,
+  you will not be permitted to join the group discussion that week. Participants
+  who fail to complete their assignments twice in a row or three times total, or
+  who are otherwise not making a good faith effort to keep up with the course
+  schedule, may be asked to leave the group. If you find yourself struggling
+  with the exercises, you should seek help at the meetings, from your study
+  partner, or online.
 
 * Participants who consistently miss meetings or RSVP without showing up will be
-removed from the group. If you cannot make it to a meeting, let our organizers
-know as soon as possible.
+  removed from the group. If you cannot make it to a meeting, let our organizers
+  know as soon as possible.
 
 * In addition to the above, all study group participants are expected to make
   their best effort at being decent human beings. Participants whose behavior
@@ -99,9 +100,9 @@ know as soon as possible.
 ### Format
 
 We will work through chapters 1–11 of the Haskell Book over the course of 8
- weeks, meeting for about one hour and half each week. We may extend the meeting
- schedule to cover subsequent chapters if there is enthusiasm for doing so and
- the organizer is available.
+weeks, meeting for about one hour and half each week. We may extend the meeting
+schedule to cover subsequent chapters if there is enthusiasm for doing so and
+the coaches are available.
 
 **This is not a class**, however, so do not come expecting a lecture. Instead,
 you will have the opportunity to review your work and to discuss concepts and
@@ -118,8 +119,8 @@ refrain from posting your solutions publicly (including on GitHub).
 All meetings will be announced on Meetup and Slack. You must RSVP to attend each
 meeting separately, as space is at a premium. If you cannot attend a meeting
 because it is full, please continue to work on your own, and come to a future
-meeting. Do not RSVP if you cannot attend. No-shows will not be allowed to
-attend subsequent meetings.
+meeting. Do not RSVP if you cannot attend. *No-shows will not be allowed to
+attend subsequent meetings*.
 
 ### Schedule
 
