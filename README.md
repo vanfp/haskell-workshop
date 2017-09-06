@@ -13,7 +13,7 @@ programming, or coding in general is required.
 
 To prepare for your first visit, please do the following:
 
-- **Join the [VanFP Meetup](https://vanfp.org), the [Vancouver Haskell Meetup](https://www.meetup.com/Vancouver-Haskell-Unmeetup/) and the #hffp-workshop channel on yvrdev.slack.com.**
+- **Join the [VanFP Meetup](https://www.vanfp.org), the [Vancouver Haskell Meetup](https://www.meetup.com/Vancouver-Haskell-Unmeetup/) and the #hffp-workshop channel on yvrdev.slack.com.**
 All announcements pertaining to this study group will be sent out via both
 Meetups and Slack.
 
