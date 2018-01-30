@@ -50,7 +50,6 @@ the following tasks:
 - Do all the reading.
 - Type in all the code.
 - Attempt all the exercises.
-- Attend the group meeting.
 - Optional: Meet with a study partner to discuss your work, it is likely you
   will keep at it if you hold yourself accountable to a particular person.
 
@@ -88,8 +87,9 @@ coding as follows:
   partner, or online.
 
 * Participants who consistently miss meetings or RSVP without showing up will be
-  removed from the group. If you cannot make it to a meeting, let our organizers
-  know as soon as possible.
+  removed from the group. If you cannot make it to a meeting, change your status
+  on the meetup event as soon as possible. You can come to future events as long
+  as you are up to date with the content.
 
 * In addition to the above, all study group participants are expected to make
   their best effort at being decent human beings. Participants whose behavior
@@ -99,10 +99,11 @@ coding as follows:
 
 ### Format
 
-We will work through chapters 1–11 of the Haskell Book over the course of 8
-weeks, meeting for about one hour and half each week. We may extend the meeting
-schedule to cover subsequent chapters if there is enthusiasm for doing so and
-the coaches are available.
+There will be two (2) cohorts running at the same time, the first one will work
+through chapters 1–10 of the Haskell Book, while the second will work from
+chapters 10-20; all over the course of 8 weeks, meeting for about one hour and
+half each week. We may extend or re-schedule meetings to cover more chapters if
+there is enthusiasm for doing so and the coaches are available.
 
 **This is not a class**, however, so do not come expecting a lecture. Instead,
 you will have the opportunity to review your work and to discuss concepts and
@@ -111,8 +112,9 @@ exercises that gave you difficulty when working through the book on your own.
 You are encouraged to hew as closely to this regular, weekly schedule as you are
 able so as to maintain your momentum. That said, if life gets in the way, so be
 it: but do your best to catch up, and avoid skipping any material as each
-chapter builds on the last. We can always discuss exercises on Slack, but please
-refrain from posting your solutions publicly (including on GitHub).
+chapter builds on the last. We can always discuss exercises on the
+#hffp-workshop channel at the [YVRDev Slack](https://yvrdev.herokuapp.com/),
+but please refrain from posting solutions publicly (including on GitHub).
 
 ### Signing up
 
@@ -124,9 +126,9 @@ attend subsequent meetings*.
 
 ### Schedule
 
-The workshop is going to take place in Unbounce HQ every Monday from 6:00 pm to
-7:30 pm starting on September 18th, 2017. The schedule can be found on the
-[Landing Page](http://workshops.vanfp.org/haskell/#lp-pom-text-62)
+The workshops are going to take place in HootSuite HQ every Monday from 6:30 pm
+to 8:00 pm starting on February 5th, 2018. The schedule will be published on
+meetup events of the [VanFP meetup](https://vanfp.org) every week.
 
 ### Links
 
@@ -134,6 +136,8 @@ The following are useful websites, educational supplements, and other reference
 materials pertinent to learning functional programming and working with Haskell.
 Submit a pull request to add more.
 
+- [What Makes Haskell Unique](https://www.youtube.com/watch?v=DebDaiYev2M) - Initial introduction to Haskell benefits
+- [Haskell at work](https://haskell-at-work.com/) - Screencast with tutorials on Real World Haskell development
 - [How I Start: Haskell](http://howistart.org/posts/haskell/1) - how to set-up a new Haskell project
 - [Haskell Language Home Page](https://haskell-lang.org/) - your portal to the Haskell universe (preferred to haskell.org)
 - [Stackage](https://www.stackage.org/) - search for Haskell modules or functions (Google has a hard time deciphering the funny operators, so use this instead)
